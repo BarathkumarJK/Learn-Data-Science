@@ -1,4 +1,4 @@
-# Data Science Learning Repository
+# My Data Science Learning Repository
 
 ## Table of Contents
 - [NumPy Basics](#numpy-basics)
